@@ -62,7 +62,7 @@ def save_json(file: str, to_json: dict) -> None:
     """
     with open(file, 'w', encoding="utf-8") as f:
         json.dump(to_json, f, indent=4, ensure_ascii=False, separators=(',', ': '))
-        LOG1.info(f"Список записан в файл {file}.")
+        LOG1.info(f"Словарь записан в файл {file}.")
 
 
 def load_json(file_name: str) -> dict:
