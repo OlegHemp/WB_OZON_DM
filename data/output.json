@@ -1,0 +1,76 @@
+{
+    "reference_wb": [],
+    "reference_oz": [],
+    "reference_dm": [
+        {
+            "url": "https://www.detmir.ru/product/index/id/4045133/",
+            "date": "25-07-2023",
+            "price_before_discount": "3499",
+            "discounted_price": "1859",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/167072/",
+            "date": "25-07-2023",
+            "price_before_discount": "1499",
+            "discounted_price": "1249",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/6181608/",
+            "date": "25-07-2023",
+            "price_before_discount": "2499",
+            "discounted_price": "1549",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/4740357/",
+            "date": "25-07-2023",
+            "price_before_discount": "219",
+            "discounted_price": "175",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/3954905/",
+            "date": "25-07-2023",
+            "price_before_discount": "9989",
+            "discounted_price": 0,
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/3741231/",
+            "date": "25-07-2023",
+            "price_before_discount": "449",
+            "discounted_price": "199",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/6007190/",
+            "date": "25-07-2023",
+            "price_before_discount": "13625",
+            "discounted_price": "10900",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/3908778/",
+            "date": "25-07-2023",
+            "price_before_discount": "11299",
+            "discounted_price": 0,
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/3410820/",
+            "date": "25-07-2023",
+            "price_before_discount": "15480",
+            "discounted_price": "13932",
+            "cpp": "-"
+        },
+        {
+            "url": "https://www.detmir.ru/product/index/id/3405561/",
+            "date": "25-07-2023",
+            "price_before_discount": "349",
+            "discounted_price": "99",
+            "cpp": "-"
+        }
+    ]
+}
